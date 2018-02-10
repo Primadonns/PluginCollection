@@ -1232,5 +1232,11 @@
         "jarName": "ChatFeelings.jar",
         "configName": "ChatFeelings",
         "freePlugin": true
-    }
+    },
+	{
+		"name": "MrCrayFishFurniture",
+		"desc": "allows MrCrayfish's furniture mod to be used",
+		"jarName:cfm-4.0.1-mc1.8.9.jar,
+		"configName:" "MrCrayfish",
+		"freePlugin": true
 ]
